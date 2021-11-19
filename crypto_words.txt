@@ -1,0 +1,589 @@
+# Coins
+# Markets
+Aave    
+AAX
+ABCC
+ACDX    
+ACE
+AED, ARS, AUD
+AEX
+ALL, AUD, BRL
+Altcoin Trader  
+Alterdice  
+and +1 more
+and +2 more
+and +3 more
+and +4 more
+and +43 more
+and +45 more
+and +47 more
+and +7 more
+AOFEX
+ApeSwap.Finance (Polygon)  
+Apollox
+APROBIT
+Artis Turba
+Aryana  
+AscendEX (Bitmax)
+ATAIX
+AUD
+AUD, EUR, GBP
+AUD, GBP
+AUD, GBP, USD
+Avg. Liquidity
+Azbit
+B2BX    
+Balancer(v2)    
+BankCEX
+BaseFEX
+Beaxy  
+Bgogo
+BHEX (BlueHelix Exchange)
+Bibox  
+Biconomy    
+BigONE
+Binance
+Binance JEX
+Binance TR
+Binance.US
+Bingbon
+BiONE
+Bit.com
+bit4you
+Bitay  
+Bitazza
+Bitbank
+BitBay  
+Bitbns  
+Bitbuy  
+Bitci  
+BitClude    
+BitcoinTrade    
+Bitcoiva
+BitCoke
+Bitex.la    
+BITEXBOOK  
+Bitexen
+BITEXLIVE  
+Bitfinex
+bitFlyer
+BitForex
+Bitfront
+Bitget
+Bitglobal
+Bithesap
+Bithumb
+Bithumb Singapore  
+Bitkub
+BitMart
+BitMEX  
+Bitonic
+BitoPro
+Bitpanda Pro
+Bitribe
+Bitrue
+Bits Blockchain
+Bitso
+Bitstamp
+Bitsten
+BITStorage  
+Bittrex
+BitTurk
+Bittylicious    
+BitUBU
+Bitvast
+Bitvavo
+BitWell
+Bleutrade  
+Blockchain.com
+BQT
+BRL
+BRL, EUR
+BTC Markets
+BTC Trade UA    
+BTC-Alpha  
+BTCBOX  
+BTC-exchange    
+BtcTurk | Pro
+BTSE    
+Buda    
+Bvnex  
+BW.com  
+Bybit
+Capital DEX
+Cat.Ex  
+CBX
+CEX.IO
+ChainX
+Changelly PRO  
+Chiliz
+Coinbase Exchange
+CoinBene
+Coinbit
+CoinCasso  
+Coincheck
+CoinCorner  
+CoinDCX
+Coindeal    
+Coineal
+CoinEx
+CoinFalcon  
+CoinField
+CoinFLEX
+Coingi  
+CoinJar
+Coinlist Pro
+CoinMate    
+CoinMetro  
+Coinone
+Coinsbit
+Coinsuper  
+CoinSwap.com (BSC)  
+CoinTiger  
+Coinut  
+CoinW
+Coinzo  
+CoinZoom
+Compound
+COSS    
+C-Patex
+Crex24  
+CROSS exchange  
+CrossTower
+CRXzone
+Crypterum  
+Crypto.com Exchange
+Cryptology
+CryptoMarket    
+Cryptonex  
+Currency.com
+Dcoin  
+Decoin  
+Deepcoin
+Delta Exchange
+Deribit
+Dex-Trade
+DFX Finance(Ethereum)  
+DigiFinex
+digitalexchange.id  
+Dove Wallet
+DragonEX
+Dsdaq
+Ecxx    
+Emirex  
+EQONEX
+eToroX
+EUR
+EUR, CHF, TRY
+EUR, GBP
+EUR, USD, GBP
+EUR, USD, RUB
+Exchange Score
+EXIR    
+ExMarkets
+EXMO
+Exnomy  
+Exrates
+EXX
+FarhadMarket
+Fatbtc
+Felixo  
+Fiat Supported
+Finexbox    
+Flybit  
+FMFW.io (Bitcoin.com Exchange)
+FOBLGATE
+Folgory
+FreeRiver  
+FreiExchange
+FTX
+FTX US
+Gate.io
+Gatehub
+GDAC    
+Gemini
+Giottus
+Globe Derivative Exchange
+Globitex    
+GokuMarket
+GOPAX  
+Graviex
+Hanbitco    
+Heat Wallet
+HitBTC
+Hoo
+Hotbit  
+HOTBIT KOREA
+Hotcoin Global  
+Huobi Global
+Huobi Korea
+IDCM
+IDR
+Independent Reserve
+Indodax
+IndoEx  
+INR
+INR, USD, EUR
+IRR
+ISK
+ISX
+itBit  
+JPY
+Jswap
+Jubi
+KickEX
+Koinbazar  
+Koinim  
+Korbit
+Kraken
+KRW
+KRW, EUR
+KuCoin
+KULAP
+Kuna    
+KuSwap  
+Kwikswap    
+KyberDMM (Avalanche)    
+KyberDMM (BSC)  
+KyberDMM (Polygon)  
+LATOKEN
+LBank
+LCX Exchange    
+Liquid
+LiteBit.eu  
+LOEx
+LuaSwap
+Luno
+Lykke Exchange  
+Mandala Exchange
+MAX Exchange
+Mercado Bitcoin
+Mercatox
+MEXC
+Mexo Exchange  
+MoonSwap(Moonriver)
+MXN, ARS
+Name
+Namebase    
+Narkasa
+NiceHash    
+Nominex
+NovaDAX
+OceanEx
+Okcoin
+OKEx
+Omgfin  
+OTCBTC
+P2PB2B  
+Paribu
+Paritex
+PayBito
+Paymium
+Phemex
+Pionex
+Poloniex
+Polyx  
+Prizmbit    
+ProBit
+ProBit Global
+Put on your metamask!!!
+qTrade  
+Rekeningku.com
+Resfinex    
+Ripio  
+RippleFox  
+RUB, TRY
+RuDEX  
+SafeTrade  
+Satang Pro  
+SecondBTC
+Serenity
+SINEGY Marketplace  
+SouthXchange
+StakeCube
+STEX
+StormGain  
+THB
+THB, SGD, AUD
+The Rock Trading
+Tidebit
+Tidex
+TimeX  
+TOKENCAN    
+Tokenize Xchange    
+Tokenomy
+Tokocrypto
+TOKOK  
+TOPBTC
+TradeOgre  
+Triv Pro    
+TRY
+TWD
+Txbit  
+Ubeswap
+Unocoin
+Upbit
+USD
+USD, AED, ARS
+USD, AUD, NZD
+USD, EUR
+USD, EUR, GBP
+USD, EUR, RUB
+USD, JPY, EUR
+USD, RUB, EUR
+VALR    
+Valuex  
+VCC Exchange
+VELIC  
+Venus
+VinDAX  
+ViperSwap  
+Virtuse Exchange    
+Volume Graph (7d)
+Volume(24h)
+WazirX  
+WBF Exchange
+Weekly Visits
+WhiteBIT
+WOO Network
+Xcalibra
+XT.COM
+YoBit
+YunEx
+Zaif
+ZB.COM
+ZBG
+ZebPay  
+ZG.com
+Zipmex
+ZT  
+icp
+eth
+btc
+doge
+lite
+ada
+sol
+vet
+matic
+uni
+fil
+solanium
+link
+dot
+bnb
+cake
+dai
+aave
+mkr
+raydium
+axie
+ksm
+fei
+comp
+chz
+loopring
+yfi
+sushi
+serum
+civic
+enj
+snx
+mana(Decentral Land)
+GRAPH(GRT)
+curve
+Karula(Acala)
+fantom
+uma
+SherpaX(ChainX)
+0x(zrx)
+cfg
+Super
+sand
+Rep(Augur)
+balancer
+gitcoin
+gala
+api3
+ampl
+gero
+dpi(defi pulse index)
+xor(sora)
+alchemix
+dao(daomaker)
+cardstart(cards)
+charli3(c3)
+ftt
+Lido
+liquity
+coin poker
+Shiden(Plasm)
+mask
+yam
+kp3r
+convex
+truefi
+yield.app
+illuvium
+Yield Guild Games
+CQT(covelate)
+farm
+Ledger Score
+Khala(Phala)
+mln(Enzyme)
+instadapp
+o3
+Depay
+Equilibrium
+Virtue Poker
+Upbots
+Moonriver(Moonbeam)
+btrst
+grape
+dydx
+zapper.fi
+solfarm
+saber
+cyber sumarai
+parrot
+zerion
+opyn
+maple finance
+tracer
+hegic
+notional
+yield.is
+KeyFi
+xrp
+xlm
+eos
+monero
+celo
+xhv
+fida
+Genshiro
+Babylon Finance
+cardax(cdx)
+defi saver
+debank
+zksync
+Redkite(PKF)
+tokensets
+dexguru
+Biforst，代币BNC
+optimism
+arbitrum
+sundaeswap
+mina
+Kava
+slingshot
+theta
+vega
+cspr
+flow
+nucypher
+rose
+fold
+TrustToken
+ren
+bac
+luna
+polkastart
+tlm
+standard protocol
+shell(statemine/statemint)
+cover
+bat
+dodo
+solanart
+gnosis
+CredMark
+Arcx
+WingFinance
+Ontology
+SelfKey
+dif
+rally
+idena
+aleo
+Guild of Guardians
+star atlas
+immutableX
+ilu gog 门票要求，玩法介绍，角色介绍
+gala、mana玩法视频
+ohm
+tokemak
+spell（mim）
+breederdao
+meritcircle
+projectseed
+thetan
+bitclout(deso)
+mirror
+audius
+yup
+stacks
+citycoin
+citydao
+ada
+bsc
+cex
+coinlist
+dao
+defi
+defi manager
+defi2.0
+dex
+eth
+game
+ido
+invest
+king
+kyc
+Layer2
+lend
+nft
+option
+oracle
+plo
+poker
+polka
+RPG
+solana
+stake
+sto
+wallet
+web3.0
+保险
+宠物
+底层协议
+二线
+工会
+公链
+供应链
+固定利率
+广告
+合规稳定币
+加密资产稳定币
+借贷
+跨链
+理财
+略
+平台
+沙盒
+社交
+数据服务
+算法稳定币
+太空
+特色
+体育
+稳定币
+稳定币交易所
+稳定币平台
+新一代dex
+信用身份
+衍生品
+游戏
+预测
+支付
+指数
